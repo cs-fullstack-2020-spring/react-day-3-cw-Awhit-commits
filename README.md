@@ -1,4 +1,7 @@
 # React Day 3 CW
+### Since we had an unexpected half day all students will receive a 4/5 if an assignment will all necessary components created as submitted on time. The final point will be added on if the app meets requirements. 
+### `pass this array the the child component` - you should be prompting and assigning values in the parent component according to the requirements
+### 4/5 
 
 
 * Create a react app called `user-media-favorites-app`. 
